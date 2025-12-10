@@ -36,7 +36,7 @@ a {
     border: 2px solid #FFFDFD;
     justify-content: center;
     align-items: center;
-    gap: 270px;
+    gap: 230px;
 }
 
 .header-menu {
@@ -68,7 +68,11 @@ a {
     line-height: 120%;
     color: #26C7EA;
 }
-
+.header-btn:hover{
+    color: #e8f3f5;
+    background-color:rgb(36, 36, 126) ;
+    cursor: pointer;
+}
 /*----------------------------- sec1------------------------- */
 .sec1-wrap {
     position: relative;
