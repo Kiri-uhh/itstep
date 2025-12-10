@@ -36,7 +36,7 @@ a {
     border: 2px solid #FFFDFD;
     justify-content: center;
     align-items: center;
-    gap: 270px;
+    gap: 230px;
 }
 
 .header-menu {
@@ -234,3 +234,4 @@ a {
     }
   
 }
+
